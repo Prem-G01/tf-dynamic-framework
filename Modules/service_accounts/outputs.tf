@@ -1,0 +1,11 @@
+output "service_account_email" {
+  value = google_service_account.sa.email
+}
+
+output "service_account_id" {
+  value = google_service_account.sa.id
+}
+
+output "service_account_name" {
+  value = google_service_account.sa.name
+}
