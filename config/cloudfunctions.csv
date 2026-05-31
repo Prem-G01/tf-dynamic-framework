@@ -1,0 +1,2 @@
+function_name,region,runtime,entry_point,description,min_instances,max_instances,memory_mb,timeout_seconds,source_bucket,source_object,service_account,trigger_type,trigger_topic
+hello-world-function,asia-south1,python312,hello_world,Test Function,0,1,256,60,app-bucket-2108560711722,Functions/hello-world,terraform-sa,,

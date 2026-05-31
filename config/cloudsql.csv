@@ -1,0 +1,2 @@
+instance_name,database_version,tier,disk_size
+sql01,MYSQL_8_0,db-custom-2-4096,20

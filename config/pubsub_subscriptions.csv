@@ -1,0 +1,5 @@
+subscription_name,topic_name,ack_deadline_seconds,message_retention_duration
+inventory-sub,inventory-topic,20,604800s
+email-sub,email-topic,20,604800s
+audit-sub,audit-topic,20,604800s
+terraform-sub,terraform-topic,20,604800s

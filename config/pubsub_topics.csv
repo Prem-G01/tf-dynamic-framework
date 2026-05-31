@@ -1,0 +1,5 @@
+topic_name,message_retention_duration,labels
+inventory-topic,604800s,inventory
+email-topic,604800s,email
+audit-topic,604800s,audit
+terraform-topic,604800s,terraform

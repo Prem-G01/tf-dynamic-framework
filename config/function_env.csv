@@ -1,0 +1,5 @@
+function_name,key,value
+inventory-function,PROJECT_ID,prj-apps dev
+inventory-function,DATASET_ID,inventory
+mail-function,SMTP_SERVER,smtp.office365.com
+mail-function,SMTP_PORT,587

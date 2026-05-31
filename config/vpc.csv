@@ -1,0 +1,2 @@
+vpc_name,auto_create_subnetworks,routing_mode
+shared-vpc,false,GLOBAL

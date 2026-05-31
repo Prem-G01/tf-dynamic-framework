@@ -1,0 +1,2 @@
+instance_name,zone,machine_type,image,disk_size,subnet
+vm01,asia-south1-a,e2-medium,debian-12,50,subnet-app

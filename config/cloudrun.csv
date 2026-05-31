@@ -1,0 +1,2 @@
+service_name,region,image
+app-service,asia-south1,us-docker.pkg.dev/cloudrun/container/hello

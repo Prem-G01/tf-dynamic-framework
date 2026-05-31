@@ -1,0 +1,2 @@
+inventory_name,schedule,target_bucket
+daily_inventory,0 2 * * *,inventory-reports

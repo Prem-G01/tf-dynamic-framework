@@ -1,0 +1,4 @@
+dataset_id,location,description,delete_contents_on_destroy
+inventory,US,Inventory Dataset,false
+logging,US,Logging Dataset,false
+billing,US,Billing Dataset,false

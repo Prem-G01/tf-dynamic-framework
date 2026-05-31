@@ -1,0 +1,3 @@
+alert_name,metric,severity,duration,threshold,email
+cpu-alert,compute.googleapis.com/instance/cpu/utilization,critical,300s,80,premkumar.gunasekaran@securekloud.com
+memory-alert,agent.googleapis.com/memory/percent_used,warning,300s,85,premkumar.gunasekaran@securekloud.com

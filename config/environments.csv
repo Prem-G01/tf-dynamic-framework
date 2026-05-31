@@ -1,0 +1,5 @@
+environment,project_id,region,zone
+dev,prj-dg-apps-dev,asia-south1,asia-south1-a
+test,prj-test,asia-south1,asia-south1-a
+uat,prj-uat,asia-south1,asia-south1-a
+prod,prj-prod,asia-south1,asia-south1-a

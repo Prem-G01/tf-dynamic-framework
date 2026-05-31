@@ -1,0 +1,3 @@
+member,role
+serviceAccount:terraform-sa@prj-dg-apps-dev.iam.gserviceaccount.com,roles/editor
+serviceAccount:inventory-sa@prj-dg-apps-dev.iam.gserviceaccount.com,roles/bigquery.dataEditor

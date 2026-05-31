@@ -1,0 +1,4 @@
+sink_name,destination_name,filter,destination_type
+inventory-sink,bigquery.googleapis.com/projects/prj-dg-apps-dev/datasets/inventory,resource.type=cloud_function,bigquery
+cloudbuild-sink,bigquery.googleapis.com/projects/prj-dg-apps-dev/datasets/logging,resource.type=build,bigquery
+audit-sink,storage.googleapis.com/audit-logs,logName:cloudaudit.googleapis.com,storage

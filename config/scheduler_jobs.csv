@@ -1,0 +1,2 @@
+job_name,schedule
+inventory-job,0 2 * * *

@@ -1,0 +1,6 @@
+dataset_id,table_id
+inventory,compute_inventory
+inventory,bucket_inventory
+inventory,cloudsql_inventory
+logging,cloudbuild_logs
+logging,function_logs

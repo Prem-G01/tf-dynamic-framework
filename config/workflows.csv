@@ -1,0 +1,3 @@
+workflow_name,region,description,service_account
+inventory-workflow,asia-south1,Inventory Workflow,workflow-sa
+terraform-workflow,asia-south1,Terraform Deployment Workflow,workflow-sa

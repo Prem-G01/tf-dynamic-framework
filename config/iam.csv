@@ -1,0 +1,9 @@
+member,role
+serviceAccount:terraform-sa@prj-dg-apps-dev.iam.gserviceaccount.com,roles/editor
+serviceAccount:inventory-sa@prj-dg-apps-dev.iam.gserviceaccount.com,roles/bigquery.dataEditor
+serviceAccount:workflow-sa@prj-dg-apps-dev.iam.gserviceaccount.com,roles/workflows.invoker
+serviceAccount:cloudbuild-sa@prj-dg-apps-dev.iam.gserviceaccount.com,roles/cloudbuild.builds.editor
+serviceAccount:210856071174-compute@developer.gserviceaccount.com,roles/logging.logWriter
+serviceAccount:210856071174-compute@developer.gserviceaccount.com,roles/artifactregistry.writer
+serviceAccount:210856071174-compute@developer.gserviceaccount.com,roles/storage.objectViewer
+serviceAccount:210856071174-compute@developer.gserviceaccount.com,roles/cloudbuild.builds.builder
