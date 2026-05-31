@@ -1,4 +1,2 @@
-trigger_name,description,repository_name,branch,filename,service_account
-terraform-dev,Terraform Dev Deployment,terraform-framework,develop,cloudbuild-dev.yaml,cloudbuild-sa
-terraform-test,Terraform Test Deployment,terraform-framework,test,cloudbuild-test.yaml,cloudbuild-sa
-terraform-prod,Terraform Prod Deployment,terraform-framework,main,cloudbuild-prod.yaml,cloudbuild-sa
+trigger_name,description,repository_name,branch,filename,service_account,github_owner
+terraform-dev,Terraform Dev Deployment,terraform-framework,develop,cloudbuild-dev.yaml,cloudbuild-sa,Prem-G01
