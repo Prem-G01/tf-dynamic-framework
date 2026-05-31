@@ -1,0 +1,10 @@
+steps:
+  - name: 'ubuntu'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        echo "Hello World from Cloud Build"
+
+options:
+  logging: CLOUD_LOGGING_ONLY
